@@ -1,1 +1,3 @@
 # JobRecommendationSystem
+
+Building a web application that takes as input of users’ previous applications, demographic information, and work history in order to predict and recommend what jobs they should apply to...
