@@ -1,3 +1,2 @@
 # JobRecommendationSystem
-
-Building a web application that takes as input of users’ previous applications, demographic information, and work history in order to predict and recommend what jobs they should apply to...
+In today’s data-driven world, where the job descriptions are closely connected and often overlapping, it is hard for students to determine where they would fit best. ZhaoDong is interested in determining what type of IT-related job would be the most suitable in terms of skill-matching and job competence for an IT professional. 
