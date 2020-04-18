@@ -1,5 +1,4 @@
-# Job Recommendation Engine :collision:
-![alt text](https://github.com/ggeop/Job-Recommendation-Engine/blob/master/Images/brain.jpeg)
+# Job Recommendation System
 
 ## Introduction
 With so many different IT-related job types in demand nowadays, it is hard for a
